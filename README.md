@@ -1,4 +1,6 @@
-# 🌵 Cactus Browser
+<p align="center">
+  <img src="./assets/banner.png" alt="GitCactus Logo" width="600">
+</p>
 
 <div align="center">
 
