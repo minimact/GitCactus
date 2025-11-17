@@ -10,8 +10,13 @@
 [![Built with Rust](https://img.shields.io/badge/Built%20with-Rust-orange.svg)](https://www.rust-lang.org/)
 [![Powered by Tauri](https://img.shields.io/badge/Powered%20by-Tauri-blue.svg)](https://tauri.app/)
 [![SignalM²](https://img.shields.io/badge/SignalM%C2%B2-Enabled-green.svg)](https://github.com/minimact/minimact)
+[![GitHub stars](https://img.shields.io/github/stars/minimact/GitCactus?style=social)](https://github.com/minimact/GitCactus)
 
-[Download](#-download) • [Features](#-features) • [Quick Start](#-quick-start) • [Examples](#-examples) • [Architecture](#-architecture)
+### ⭐ [**Star us on GitHub!**](https://github.com/minimact/GitCactus) ⭐
+
+*If you like what we're building, give us a star to help spread the word!*
+
+[Download](#-download) • [Features](#-features) • [Quick Start](#-quick-start) • [Examples](#-examples) • [Architecture](#-architecture) • [Contributing](#-contributing)
 
 </div>
 
