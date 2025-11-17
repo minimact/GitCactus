@@ -62,8 +62,8 @@ Debug deployment issues
 ### 🎯 Full React API
 - `useState`, `useEffect`, `useRef` - everything works
 - Server-side hooks execute in C# runtime
-- Client-side state via `useClientState`
-- Real DOM patching via Minimact reconciler
+- Client-side state via `useState`
+- Real-time DOM patching via Minimact reconciler
 
 ## 🚀 Quick Start
 
