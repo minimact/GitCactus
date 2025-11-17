@@ -91,7 +91,7 @@ https://github.com/minimact/cactus-browser/releases/latest
 
 ```tsx
 // Counter.tsx
-import { useState } from 'react';
+import { useState } from '@minimact/core';
 
 export default function Counter() {
   const [count, setCount] = useState(0);
