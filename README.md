@@ -4,8 +4,6 @@
 
 <div align="center">
 
-**The Fastest Browser in the West**
-
 *No servers. No builds. No bull. Just pure TSX, straight from the git.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
